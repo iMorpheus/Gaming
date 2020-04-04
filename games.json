@@ -13,6 +13,6 @@
 	"Perspective" : ["First", "Third"],
 	"Category" : ["Action", "Survivial", "RPG"],
 	"Activities" : ["Cooking", "Crafting", "Trading", "Problem-solving"],
-	"Themes" : ["American History", "Morality", "Ethetics", "Post-apocalypse"]
+	"Themes" : ["American History", "Morality", "Ethics", "Post-apocalypse"]
     }
 ]
