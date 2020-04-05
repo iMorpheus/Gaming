@@ -1,18 +1,18 @@
 [
-    {
-	"Title" : "No Man's Sky",
-	"Setting" : ["Space", "Future"],
-	"Perspective" : ["First", "Third", "VR"],
-	"Category" : ["Action", "Survivial"],
-	"Activities" : ["Crafting", "Trading", "Navigating", "Problem-solving"],
-	"Themes" : ["Astronomy", "Chemistry", "Economics"]
-    },
-    {	
-	"Title" : "Fallout 76",
-	"Setting" : ["America", "1950s"],
-	"Perspective" : ["First", "Third"],
-	"Category" : ["Action", "Survivial", "RPG"],
-	"Activities" : ["Cooking", "Crafting", "Trading", "Problem-solving"],
-	"Themes" : ["American History", "Morality", "Ethics", "Post-apocalypse"]
-    }
+  {
+    "Title": "No Man's Sky",
+    "Setting": ["Space", "Future"],
+    "Perspective": ["First", "Third", "VR"],
+    "Category": ["Action", "Survivial"],
+    "Activities": ["Crafting", "Trading", "Navigating", "Problem-solving"],
+    "Themes": ["Astronomy", "Chemistry", "Economics"]
+  },
+  {
+    "Title": "Fallout 76",
+    "Setting": ["America", "1950s"],
+    "Perspective": ["First", "Third"],
+    "Category": ["Action", "Survivial", "RPG"],
+    "Activities": ["Cooking", "Crafting", "Trading", "Problem-solving"],
+    "Themes": ["American History", "Morality", "Ethics", "Post-apocalypse"]
+  }
 ]
