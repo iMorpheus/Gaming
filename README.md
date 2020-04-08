@@ -1,4 +1,6 @@
-# Gaming
+# Gaming & Education: Knowledge enriches and improves your gaming experience
+
+After travelling above a cluster of MULEs in Death Stranding via a Zipline, a viewer in my chat stated, "You were travelling at ## MPHs." I had never thought of calculating my rate of speed. The formula Speed = Distance/Time.
 
 Okay, so kids playing Tomb Raider are exposed to physics without even knowing it!
 Later in life they will say, “I’m never going to use physics IRL.” Joke is on them!
