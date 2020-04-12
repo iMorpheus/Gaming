@@ -1,0 +1,4 @@
+Number of Laps remaining
+- Race Distance
+- Current lap
+Formula: Race Distance - (Current Lap + 1) = Number of Laps remaining
