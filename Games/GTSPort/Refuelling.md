@@ -21,20 +21,22 @@ Compare the above result, *Number of Race Laps Remaining*, to the number of laps
 IF *Number Of Race Laps Remaining* is **GREATER THAN** Number Of Laps Of Fuel Remaining **THEN** Refuel 
 IF *Number Of Race Laps Remaining* is **LESS THAN** *Number of Laps Of Fuel Remaining* Race on!
 
-if \[ $NumberOfRaceLapsRemaining > $NumberOfLapsOfFuelRemaining \]
+```
+if [ $NumberOfRaceLapsRemaining > $NumberOfLapsOfFuelRemaining ]
 then
   Refuel
 fi
-
+```
 - Number of Race Laps Remaining: 5
 - Number of Laps of Fuel Remaining: 3
 - 5 > 3 ∴ PIT!
 
-if \[ $NumberOfRaceLapsRemaining < $NumberOfLapsOfFuelRemaining \]
+```
+if [ $NumberOfRaceLapsRemaining < $NumberOfLapsOfFuelRemaining ]
 then
   Continue Racing
 fi
-
+```
 - Number of Race Laps Remaining: 5
 - Number of Laps of Fuel Remaining: 6
 - 5 > 6 ∴ DO NOT PIT!
