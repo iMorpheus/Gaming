@@ -40,6 +40,7 @@ fi
 - 5 > 6 ∴ DO NOT PIT!
 
 #### RESOURCES 
+- Mathmatics: [Inequality with Greater than and Less than symbols](https://www.smartickmethod.com/blog/math/mathematical-curiosities/math-symbols-greater-than-less-than-equal/)
 - Mathmatics: [PEMDAS](https://www.purplemath.com/modules/orderops.htm) 
 - Bash: [IF-ELSE](https://linuxize.com/post/bash-if-else-statement/)
 - Logic/Mathematical Proof: [Therefore/∴](https://en.wikipedia.org/wiki/Therefore_sign)
