@@ -47,3 +47,5 @@ fi
 - Bash: [IF-ELSE](https://linuxize.com/post/bash-if-else-statement/)
 - Logic/Mathematical Proof: [Therefore/∴](https://en.wikipedia.org/wiki/Therefore_sign)
 
+### LESSON PLAN <--- Don't like that wording Maybe Worksheet?
+THIS SPACE LEFT BLANK BECAUSE REASONS
