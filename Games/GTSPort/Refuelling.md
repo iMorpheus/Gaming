@@ -13,8 +13,8 @@ Number of race laps - (Current Lap + 1) = Number of Race Laps Remaining
 
 #### Example
 - Number of race laps: 13
-- Current lap: 7
-13 - (7 + 1) = 5
+- Current lap: 7 
+- 13 - (7 + 1) = 5
 
 Compare the above result, *Number of Race Laps Remaining*, to the number of laps of fuel remaining in your fuel tank to determine whether or not refuelling is necessary.
 
