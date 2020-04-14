@@ -5,8 +5,12 @@
     "Perspective": ["First", "Third", "VR"],
     "Category": ["Action", "Survivial"],
     "Activities": ["Crafting", "Trading", "Navigating", "Problem-solving"],
-    "Disciplines": ["Astronomy", "Chemistry", {"Algebra" : ["ratios"]}],
-    "Resources" : [{"Ratios" : "https://www.matchfishtank.org/curriculum/mathematics/6th-grade-math/understanding-and-representing-ratios/"}]
+    "Disciplines": ["Astronomy", "Chemistry", { "Algebra": ["ratios"] }],
+    "Resources": [
+      {
+        "Ratios": "https://www.matchfishtank.org/curriculum/mathematics/6th-grade-math/understanding-and-representing-ratios/"
+      }
+    ]
   },
   {
     "Title": "Fallout 76",
@@ -15,6 +19,6 @@
     "Category": ["Action", "Survivial", "RPG"],
     "Activities": ["Cooking", "Crafting", "Trading", "Problem-solving"],
     "Disciplines": ["American History", "Morality", "Ethics"],
-    "Resrources" : []
+    "Resrources": []
   }
 ]
