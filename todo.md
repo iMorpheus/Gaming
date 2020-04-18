@@ -1,3 +1,9 @@
+# TODO
+
+## Games
+
+- Add more basic details about games
+
 ### MARIO KART
 
 - Colors and color wheel
