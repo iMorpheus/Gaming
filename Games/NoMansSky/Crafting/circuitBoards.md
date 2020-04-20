@@ -1,17 +1,25 @@
-## GOAL: 10 Circuit Boards every 16 Hours
+### Circuit Board Requirements
+1. `Heat Capacitor`: 1
+- `Frost Crystals`: 100
+- `Solanium: 200
+2. `Poly Fibre`: 1
+- `Cactus Flesh`: 100 
+- `Star Bulb`: 200
 
-### 1. Circuit Board Requirements
+### PRODUCTION
 
-- 1 Heat Capacitor:
-  - 100 Frost Crystals + 200 Solanium
-- 1 Poly Fibre:
-  - 100 Cactus Flesh + 200 Star Bulb
+|Resource | Time to Yield in Minutes | Yield
+|-------------|:-------------:|:-------:|
+|Frost Crystal|60|81|
+|Solanum|960|81|
+|Star Bulb|240|41|
+|Cactus Flesh|960|162|
 
-### 2. Frost Crystal
+
+1. Frost Crystal
 
 - 81 units per hour
-
-### 3. Solanum
+2. Solanum
 
 - 81 Units per 16 hours
 
