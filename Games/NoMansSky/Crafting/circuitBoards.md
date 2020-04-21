@@ -15,18 +15,3 @@
 |Star Bulb|41|240|
 |Cactus Flesh|162|960|
 
-
-1. Frost Crystal
-
-- 81 units per hour
-2. Solanum
-
-- 81 Units per 16 hours
-
-### 4. Star Bulb
-
-- 41 every four hours
-
-### 5. Cactus Flesh
-
-- 162 every sixteen hours
