@@ -15,8 +15,8 @@
 |Star Bulb|41|240|
 |Cactus Flesh|162|960|
 
-### HYDROPONIC PLANTER
-If I were to collect resources once a day here are the number of hydroponic planters required to craft ten Circuit Boards a day. Math is probably off.
+### HYDROPONIC TRAYS
+If I were to collect resources once a day here are the number of hydroponic trays required to craft ten Circuit Boards a day. Math is probably off.
 
 |Resource | Required| Math (Yield * NumberOfPlanters) | Output
 |:---------|------------------|:-------------------------------|:-------|
@@ -25,4 +25,4 @@ If I were to collect resources once a day here are the number of hydroponic plan
 |Solanium|2000|81 X 25|2025|
 |Star Bulb|2000|41 X 50|2050|
 
-`Total number of hydroponic planters required`: 7+13+25+50 = 95
+`Total number of hydroponic trays required`: 7+13+25+50 = 95
