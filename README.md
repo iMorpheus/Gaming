@@ -14,7 +14,7 @@ Later in life they will say, _“I’m never going to use physics IRL.”_ Joke 
 NOTE: The above focuses on math but there are other areas. For example, color theory.
 
 ### CURRENT PROJECT: NO MAN'S SKY
-- [Repository](https://github.com/iMorpheus/Gaming/tree/master/Games/NoMansSky)
+- [Home](https://github.com/iMorpheus/Gaming/blob/master/Games/NoMansSky/ReadMe.md)
 - [Crafting](https://github.com/iMorpheus/Gaming/tree/master/Games/NoMansSky/Crafting)
   * [Basic Farming](https://github.com/iMorpheus/Gaming/blob/master/Games/NoMansSky/Crafting/farmingMath.md)
   * [Circuit Board](https://github.com/iMorpheus/Gaming/blob/master/Games/NoMansSky/Crafting/circuitBoards.md)
