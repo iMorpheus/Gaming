@@ -2,6 +2,8 @@
 
 A few weeks back, I ran across a Reddit post titled ‘How to Use Your Education’ ([Source](https://www.reddit.com/r/coolguides/comments/fiv1aj/how_to_use_your_education/)) which finally got me off my butt to address a phenomenon I have witnessed repeatedly: 
  > People who excel at math tend to have better gear, more in-game currency; and construct better bases/structures.
+ 
+Also, ArionSilver's formula for [calculating remaining fuel](https://github.com/iMorpheus/Gaming/blob/master/Games/GTSPort/Refuelling.md) in GT Sport further proved my belief.
 
 As I suck at math, my gear stats are always meh, I struggle to garner in-game currency and my bases are mishapen eyesores. All this because of my crappy math skills. UGH, if I had only paid attention in class! IF I HAD ONLY UNDERSTOOD THE IMPORTANCE OF MATH!
 
