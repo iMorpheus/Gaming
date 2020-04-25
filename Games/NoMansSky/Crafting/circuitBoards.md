@@ -26,3 +26,13 @@ If I were to collect resources once a day here are the number of hydroponic tray
 |Star Bulb|2000|41 X 50|2050|
 
 `Total number of hydroponic trays required`: 7+13+25+50 = 95
+
+##### Required Resources: Hydroponic Trays (95)
+|Resource| Number Required|Maffs|
+|:--------|----------:|:-----|
+|Frost Crystal| 1900|20 x 95|
+|Pure Ferrite|2850|30 x 95
+|Ferrite Dust|9500|95x(2x50)|
+|Metal Plating|190|2 x 95|
+
+These are crazy-town numbers!
