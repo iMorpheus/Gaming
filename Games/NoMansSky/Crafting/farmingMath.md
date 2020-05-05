@@ -40,7 +40,7 @@ I want to start farming in _No Man's Sky_. Unfortunately, my numeracy/my math sk
     
 ## FIRST FLOOR FREIGHTER:
 - `AREA: 28 * 36 = 1008`
-- `HYDROPONIC TRAY AREA: 2 * 4 = 16`
+- `HYDROPONIC TRAY AREA: 4 * 4 = 16`
 - `AISLE SPACE: 1`
 - `TOTAL HYROPONIC TRAY + AISLE SPACE: 5 * 5 = 25`
 - `TOTAL NUMBER OF HYDROPONIC TRAYS POSSIBLE = 1008 / 25 = 40`
