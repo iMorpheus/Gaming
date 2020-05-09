@@ -1,4 +1,4 @@
-## Math
+## MATH
 1. [Area of Plane Shapes](https://www.mathsisfun.com/area.html)
 - [Farming Math](https://github.com/iMorpheus/Gaming/blob/master/Games/NoMansSky/Crafting/farmingMath.md)
 
