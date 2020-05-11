@@ -25,5 +25,4 @@ print("Tyres: ", tyres)
 print("Damage: ", damage_level)
 print("Boost: ", boost_level)
 
-
 # https://pynative.com/python-random-choice/
