@@ -48,15 +48,18 @@ I want to start farming in _No Man's Sky_. Unfortunately, my numeracy/my math sk
 ### WORKSPACE CALCULATOR `HydroCalculator.py`
 
 ```
-### Trays in Area ###
-### Let's figure out how many trays we can build in a space.
-### ************* ###
+### Let's figure out how many trays we can build in a space/area in No Man's Sky
+## Farming Area Input From USER ##
 
-### INPUT: WORKSPACE DIMENSIONS
-width = 28 # This will be input from the user
-height = 36 # This will be input from the user
+height = input("Enter the height: ")
+width = input("Enter the width: ")
+width = int(width)
+height = int(height)
+
+# Above code courtesy of student.
 
 ### FIXED VALUE
+
 HydroTrays = 25 # Actual Hydroponic Tray dimensions 4*4 but we have added an extra row and column as aisles.
 
 ### MATHS
@@ -66,6 +69,9 @@ PossibleTrays = Area / HydroTrays
 ### OUTPUT
 print(PossibleTrays)
 
-### TODO:
-### - Collect User Input.
+#  TODO:
+### - Formula for squares
+### - Shape menu picker: Square or rectangle 
+# DONE
+# - Collect User Input.
 ```
