@@ -11,12 +11,6 @@ soft_tyre_set = ['CS', 'SS', 'RS']
 damage_set = ['Light', 'Strong']
 boost_set = ['Weak', 'Strong']
 
-# --  #
-car_class_set = ['N', 'G']
-car_cat = random.choice(car_class_set)
-
-compound_set = ['H', 'S']
-compound = random.choice(compound_set)
 
 # -- SORTING HATS -- #
 n_class = random.choice(n_set)
