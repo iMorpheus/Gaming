@@ -1,4 +1,3 @@
-
 #!/usr/local/bin/Python3
 
 import random
@@ -41,6 +40,6 @@ else:
     tyres = (soft_tyres)
 
 # -- OUTPUT -- #
-print("Let's race", car_class, "cars on", tyres, "with", damage_level, "DAMAGE and BOOST set to", boost_level)
+print(f"Let's race {car_class} cars on {tyres} with {damage_level} DAMAGE and BOOST set to {boost_level}")
 
 # https://pynative.com/python-random-choice/
