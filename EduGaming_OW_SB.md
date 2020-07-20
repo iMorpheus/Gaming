@@ -16,6 +16,20 @@ _H/T: McCroat for asking, "oh cool so are you trying to document how to improve?
 - List of [Sandbox Games on Steam](https://store.steampowered.com/tags/en/Sandbox/)
 - Google Docs Submission Form: [EduGaming in Open-World & Sandbox Games](https://forms.gle/qyB5DJ2oXQsPUHMA8)
 
+# EXAMPLE (1): No Man's Sky
+- Title: No Man's Sky
+- School Subject: Basic Arithmetic 
+- Skill: Addition, Subtraction, Multiplication and Division
+- Knowledge: Counting
+- In Game: Determing space required for Hydroponic Trays
+- Resource: [Multiplication](https://www.homeschoolmath.net/worksheets/grade_6.php#multdiv)
+- School Subject: Geometry
+- Skill: Area
+- In Game Example: Area of a Hydroponic Tray
+- Resource: [Splash Learn Area](https://www.splashlearn.com/math-vocabulary/geometry/area)
+
+_More_: [Farming Maht](https://github.com/iMorpheus/Gaming/blob/master/Games/NoMansSky/Crafting/farmingMath.md)
+
 # Gaming & Education: ABOUT
 
 A few weeks back, I ran across a Reddit post titled ‘How to Use Your Education’ ([Source](https://www.reddit.com/r/coolguides/comments/fiv1aj/how_to_use_your_education/)) which finally got me off my butt to address a phenomenon I have witnessed repeatedly: 
@@ -32,3 +46,7 @@ Other examples:
 Later in life they will say, _“I’m never going to use physics IRL.”_ Joke is on them!
 
 NOTE: The above focuses on math but there are other areas. For example, color theory.
+
+
+
+
