@@ -2,7 +2,7 @@
 A tool for parents, teachers, kids and perplexed gamers!
 
 # TARGET AUDIENCE:
-- Parents: help kids learn
+- Parents: Help kids learn
 - Teachers: Relate what you are teaching to something kids are familiar
 - Pathetic gamers like myself: Things you need to learn to #GitGud!
 - Kids: Justify your gaming addiction as learning.
