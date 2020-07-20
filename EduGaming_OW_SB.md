@@ -6,6 +6,7 @@ A tool for parents, teachers, kids and perplexed gamers!
 - Teachers: Relate what you are teaching to something kids are familiar
 - Pathetic gamers like myself: Things you need to learn to #GitGud!
 - Kids: Justify your gaming addiction as learning.
+- Game Devs: Provide learning materials for kids or schools. Think [Coding with Minecraft](https://education.minecraft.net/hour-of-code)
 
 _H/T: McCroat for asking, "oh cool so are you trying to document how to improve?"_
 
