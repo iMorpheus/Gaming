@@ -1,5 +1,13 @@
 # EDUCATION & Gaming (EduGaming): What Can be Learned from Open-world and Sandbox Games
-A tool for parents and teachers.
+A tool for parents, teachers, kids and perplexed gamers!
+
+# TARGET AUDIENCE:
+- Parents: help kids learn
+- Teachers: Relate what you are teaching to something kids are familiar
+- Pathetic gamers like myself: Things you need to learn to #GitGud!
+- Kids: Justify your gaming addiction as learning.
+
+_H/T: McCroat for asking, "oh cool so are you trying to document how to improve?"_
 
 # EduGaming Project: Collecting Data
 - Objective: Collect a list of learning resources and educational subjects for Open-world and Sandbox games.
