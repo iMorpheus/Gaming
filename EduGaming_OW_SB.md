@@ -28,7 +28,7 @@ _H/T: McCroat for asking, "oh cool so are you trying to document how to improve?
 - In Game Example: Area of a Hydroponic Tray
 - Resource: [Splash Learn Area](https://www.splashlearn.com/math-vocabulary/geometry/area)
 
-_More_: [Farming Maht](https://github.com/iMorpheus/Gaming/blob/master/Games/NoMansSky/Crafting/farmingMath.md)
+_More_: [Farming Math](https://github.com/iMorpheus/Gaming/blob/master/Games/NoMansSky/Crafting/farmingMath.md)
 
 # Gaming & Education: ABOUT
 
